@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Snillrik restaurant menu\n"
+"POT-Creation-Date: 2023-03-29 22:38+0200\n"
+"PO-Revision-Date: 2023-03-29 22:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: snillrik_restaurant.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/dish.php:29
+msgid "Dish Tags"
+msgstr "Maträtt Taggar"
+
+#: classes/dish.php:36
+msgctxt "taxonomy general name"
+msgid "Dish-categories"
+msgstr "Maträttskategorier"
+
+#: classes/dish.php:37
+msgctxt "taxonomy singular name"
+msgid "Dish-category"
+msgstr "Maträtt-kategori"
+
+#: classes/dish.php:38
+msgid "Search Dish-types"
+msgstr "Sök efter maträtter"
+
+#: classes/dish.php:39
+msgid "All Dish-types"
+msgstr "Alla maträtter"
+
+#: classes/dish.php:40
+msgid "Parent Dish-type"
+msgstr "Förälder maträtt"
+
+#: classes/dish.php:41
+msgid "Parent Dish-type:"
+msgstr "Förälder maträtt"
+
+#: classes/dish.php:42
+msgid "Edit Dish-type"
+msgstr "Redigera maträtt"
+
+#: classes/dish.php:43
+msgid "Update Dish-type"
+msgstr "Uppdatera Maträtt"
+
+#: classes/dish.php:44
+msgid "Add New Dish-type"
+msgstr "Lägg till ny maträtt"
+
+#: classes/dish.php:45
+msgid "New Dish-type Name"
+msgstr "Namn på ny maträtt"
+
+#: classes/dish.php:46
+msgid "Dish cat"
+msgstr "Maträttskategori"
+
+#: classes/dish.php:63
+msgctxt "dishes"
+msgid "Dishes"
+msgstr "Rätter"
+
+#: classes/dish.php:64
+msgctxt "Dish"
+msgid "Dish"
+msgstr "Rätt"
+
+#: classes/dish.php:65
+msgctxt "snillrik_restaurant_dish"
+msgid "Add new"
+msgstr "Lägg till nytt"
+
+#: classes/dish.php:66
+msgid "Add new dish"
+msgstr "Lägg till ny maträtt"
+
+#: classes/dish.php:67
+msgid "Edit dish"
+msgstr "Redigera maträtt"
+
+#: classes/dish.php:68
+msgid "New dish"
+msgstr "Ny maträtt"
+
+#: classes/dish.php:69
+msgid "All dishes"
+msgstr "Alla maträtter"
+
+#: classes/dish.php:70
+msgid "Show dish"
+msgstr "Visa maträtt"
+
+#: classes/dish.php:71
+msgid "Find dishes"
+msgstr "Hitta maträtter"
+
+#: classes/dish.php:72
+msgid "No dishes found"
+msgstr "Inga maträtter hittades"
+
+#: classes/dish.php:73
+msgid "No dishes found in trash"
+msgstr "Inga maträtter hittades i papperskorgen"
+
+#: classes/dish.php:75 classes/dish.php:79 classes/menu.php:86
+msgid "Dishes"
+msgstr "Rätter"
+
+#: classes/dish.php:115
+msgid "Price"
+msgstr "Pris"
+
+#: classes/dish.php:116
+msgid ""
+"Set a price for this dish, it can be set to a specific price in the menu "
+"too, but defaults to this price."
+msgstr ""
+"Sätt ett pris för den här rätten, den kan ställas in på ett specifikt pris i "
+"menyn också, men förinställer detta pris."
+
+#: classes/dish.php:229
+msgid "Set price for this menu"
+msgstr "Ange pris för denna meny"
+
+#: classes/menu.php:29
+msgid "Menu Categories"
+msgstr "Menykategorier"
+
+#: classes/menu.php:35
+msgctxt "Menus"
+msgid "Menus"
+msgstr "Menyer"
+
+#: classes/menu.php:36
+msgctxt "Menu"
+msgid "Menu"
+msgstr "Meny"
+
+#: classes/menu.php:37
+msgctxt "menu"
+msgid "Add new"
+msgstr "Lägg till nytt"
+
+#: classes/menu.php:38
+msgid "Add new menu"
+msgstr "Lägg till ny meny"
+
+#: classes/menu.php:39
+msgid "Edit menu"
+msgstr "Redigera meny"
+
+#: classes/menu.php:40
+msgid "New Menu"
+msgstr "Ny meny"
+
+#: classes/menu.php:41
+msgid "All Menus"
+msgstr "Alla menyer"
+
+#: classes/menu.php:42
+msgid "Show Menu"
+msgstr "Visa meny"
+
+#: classes/menu.php:43
+msgid "Find Menus"
+msgstr "Hitta menyer"
+
+#: classes/menu.php:44
+msgid "No Menus found"
+msgstr "Inga menyer hittades"
+
+#: classes/menu.php:45
+msgid "No Menus found in trash"
+msgstr "Inga menyer hittades i papperskorgen"
+
+#: classes/menu.php:47 classes/menu.php:51
+msgid "Menus"
+msgstr "Menyer"
+
+#: classes/menu.php:87
+#, php-format
+msgid "Select the %s that you want to appear in this menu"
+msgstr "Välj den %s som du vill ska visas på den här menyn"
+
+#: classes/menu.php:88
+#, php-format
+msgid ""
+"You can add a price for this dish specifically for this menu, but it will "
+"not link to the %s single page (because that will show the orignial price)"
+msgstr ""
+"Du kan lägga till ett pris för den här rätten specifikt för den här menyn, "
+"men den kommer inte att länka till %s -sidan (eftersom det visar det "
+"ursprungliga priset)"
+
+#: classes/menu.php:105
+msgid "Show category"
+msgstr "Visa kategori"
+
+#: classes/menu.php:110
+msgid "Hide image"
+msgstr "Dölj bild"
+
+#: classes/menu.php:115
+msgid "Link title"
+msgstr "Länkrubrik"
+
+#: classes/menu.php:121
+msgid "Category"
+msgstr "Kategori"
+
+#: classes/menu.php:126
+msgid "Order By"
+msgstr "Sortera efter"
+
+#: classes/menu.php:135
+msgid ""
+"Or, shortcode for now, just copy the text below and paste where you want "
+"your menu to appear."
+msgstr ""
+"Eller, kortkod för nu, kopiera bara texten nedan och klistra in där du vill "
+"att menyn ska visas."
+
+#: classes/menu.php:136
+msgid "Or if you want to use some options:"
+msgstr "Eller om du vill använda några alternativ:"
+
+#: classes/menu.php:143
+msgid "Text in menu footer"
+msgstr "Text i menyns sidfot"
+
+#: classes/menu.php:144
+msgid "A short text to put in the footer of the menu."
+msgstr "En kort text att lägga i sidfoten på menyn."
+
+#: classes/settings.php:19 classes/settings.php:20
+msgid "Snillrik Restaurant"
+msgstr ""
+
+#: classes/shortcodes.php:48
+msgid "No dishes set"
+msgstr "Inga maträtter tillagda"
+
+#: classes/widgets.php:19
+msgid "Restaurant Widget"
+msgstr "Restaurang Widget"
+
+#: classes/widgets.php:20
+msgid "To display a tasty snillrik restaurant dish on your site."
+msgstr "För att visa en välsmakande snillrik restaurangrätt på din sida."
+
+#: classes/widgets.php:80
+msgid "Dishes:"
+msgstr "Matätter:"
+
+#. Plugin Name of the plugin/theme
+msgid "Snillrik restaurant menu"
+msgstr "Snillrik restaurangmeny"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.snillrik_restaurant.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Snillrik restaurant restaurant menu handler."
+msgstr "Snillrik restaurant restaurant menu handler."
+
+#. Author of the plugin/theme
+msgid "Mattias Kallio"
+msgstr "Mattias Kallio"
+
+#. Author URI of the plugin/theme
+msgid "http://www.snillrik.se"
+msgstr ""
+
+#~ msgid "Select the %s that you want to appear on this menu"
+#~ msgstr "Välj den %s som du vill ska visas på den här menyn"
+
+#~ msgid "Dish Categories"
+#~ msgstr "Maträttskategorier"

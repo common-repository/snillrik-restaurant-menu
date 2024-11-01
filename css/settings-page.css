@@ -1,0 +1,41 @@
+.snillrik-main-wrap {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    margin: 20px 20px 40px 0;
+    border-radius: 10px;
+}
+
+.snillrik-main-wrap h1 {
+    position: relative;
+    left: -90px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0 0 5px #0000003d;
+}
+
+.snillrik-main-wrap .snillrik-logo {
+    max-width: 160px;
+}
+
+.snillrik-main-wrap .snillrik-main-left-side {
+    flex: 4;
+}
+
+.snillrik-main-wrap .snillrik-main-right-side {
+    flex: 1;
+    padding-left: 10px;
+}
+
+.snillrik-main-side-block img {
+    max-width: 160px;
+}
+.snillrik-main-side-block div{
+    margin-bottom: 20px;
+    border: 1px solid #d6d6d6;
+    border-radius: 10px;
+    padding: 20px;
+    background: white;
+    text-align: center;
+}
